@@ -1,0 +1,24 @@
+baseURL = 'https://briancarroll.cool/'
+languageCode = 'en-us'
+title = 'Brian Carroll'
+theme = 'PaperMod'
+
+[params]
+  description = 'Builder of things. Projects, experiments, and the occasional jailbreak.'
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[params.homeInfoParams]
+  Title = 'Brian Carroll'
+  Content = 'Builder of things — mostly at the intersection of hardware, software, and AI.'
+
+[[params.socialIcons]]
+  name = 'github'
+  url = 'https://github.com/frogmoses'
+
+[[menu.main]]
+  name = 'Projects'
+  url = '/projects/'
+  weight = 10
