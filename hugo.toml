@@ -4,17 +4,54 @@ title = 'Brian Carroll'
 theme = 'PaperMod'
 
 [params]
-  description = 'Builder of things. Projects, experiments, and the occasional jailbreak.'
+  description = 'History, music, travel, and tech — projects and presentations by Brian Carroll.'
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
 
-[[params.socialIcons]]
-  name = 'github'
-  url = 'https://github.com/frogmoses'
+[params.profileMode]
+  enabled = true
+  title = 'Brian Carroll'
+  subtitle = 'History, music, travel, and tech — projects, presentations, and the occasional deep dive.'
+
+  [[params.profileMode.buttons]]
+    name = 'Projects'
+    url = '/projects'
+
+  [[params.profileMode.buttons]]
+    name = 'Presentations'
+    url = '/presentations'
+  
+  [[params.profileMode.buttons]]
+    name = 'JCC Articles'
+    url = '/jcc-articles'
+
+  [[params.profileMode.buttons]]
+    name = 'Compendium of Strange Events'
+    url = '/book'
 
 [[menu.main]]
   name = 'Projects'
   url = '/projects/'
   weight = 10
+
+[[menu.main]]
+  name = 'Presentations'
+  url = '/presentations/'
+  weight = 20
+
+[[menu.main]]
+  name = 'JCC Articles'
+  url = '/jcc-articles/'
+  weight = 30
+
+[[menu.main]]
+  name = 'Compendium of Strange Events'
+  url = '/book/'
+  weight = 40
+
+[[menu.main]]
+  name = 'Paris'
+  url = '/paris/'
+  weight = 50
