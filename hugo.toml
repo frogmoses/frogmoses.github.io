@@ -12,7 +12,7 @@ theme = 'PaperMod'
 
 [params.homeInfoParams]
   Title = 'Brian Carroll'
-  Content = 'Builder of things — mostly at the intersection of hardware, software, and AI.'
+  Content = 'Builder of things — mostly at the intersection of hardware, software, and AI.\n\nCheck out my [projects](/projects) or find me on [GitHub](https://github.com/frogmoses).'
 
 [[params.socialIcons]]
   name = 'github'
