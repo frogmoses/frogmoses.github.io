@@ -4,7 +4,7 @@ date = 2026-03-14
 draft = false
 +++
 
-As I described in my previous post [](), I roast coffee at home on a Hottop KN-8828b-2k+. The Hottop has a viewport on the left side facing away from the control panel. When roasting all my focus is on the laptop, which sits on the right side of the roaster. I can't really see the beans during the roast and can't visually assess the changes, which is a key criteria of the beans' development.
+As I described in my previous post [Automated Coffee Roasting Analysis](https://briancarroll.cool/projects/coffee-roasting/), I roast coffee at home on a Hottop KN-8828b-2k+. The Hottop has a viewport on the left side facing away from the control panel. When roasting all my focus is on the laptop, which sits on the right side of the roaster. I can't really see the beans during the roast and can't visually assess the changes, which is a key criteria of the beans' development.
 
 After jailbreaking the Rabbit R1, I was looking to use it for something real, then inspiration struck. Since I could now do whatever I want with the R1, including having live control over it, why not use it to watch the beans for me, capture point-in-time images of the roast, and have the images visually analyzed via AI to include in my larger coffee roasting analysis pipeline.
 

@@ -1,5 +1,5 @@
 +++
-title = "Coffee Roasting Analysis"
+title = "Automated Coffee Roasting Analysis"
 date = 2026-03-13
 draft = false
 +++
