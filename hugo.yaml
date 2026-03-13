@@ -28,6 +28,6 @@ menu:
     - name: Compendium of Strange Events
       url: /book/
       weight: 40
-    - name: White River Data
+    - name: Can I Go Fishing?
       url: https://briancarroll.cool/WhiteRiverData/white_hole_conditions.html
       weight: 55
