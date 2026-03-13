@@ -52,6 +52,11 @@ theme = 'PaperMod'
   weight = 40
 
 [[menu.main]]
+  name = 'White River Data'
+  url = 'https://briancarroll.cool/WhiteRiverData/white_hole_conditions.html'
+  weight = 55
+
+[[menu.main]]
   name = 'Paris'
   url = '/paris/'
-  weight = 50
+  weight = 60
