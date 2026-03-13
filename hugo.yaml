@@ -1,0 +1,33 @@
+baseURL: https://briancarroll.cool/
+languageCode: en-us
+title: Brian Carroll
+theme: PaperMod
+
+params:
+  description: "History, music, travel, and tech — projects and presentations by Brian Carroll."
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+
+  disableSpecial1stPost: true
+
+  disableScrollToTop: false
+
+  mainSections:
+    - projects
+
+menu:
+  main:
+    - name: Projects
+      url: /projects/
+      weight: 10
+    - name: Presentations
+      url: /presentations/
+      weight: 20
+    - name: Compendium of Strange Events
+      url: /book/
+      weight: 40
+    - name: White River Data
+      url: https://briancarroll.cool/WhiteRiverData/white_hole_conditions.html
+      weight: 55
