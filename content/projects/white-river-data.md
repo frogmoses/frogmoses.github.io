@@ -4,7 +4,7 @@ date = 2026-03-13
 draft = false
 +++
 
-My family and I go fishing regularly at the White River below Bull Shoals Dam. One of the main topics of conversation is "how many generators are running". To get that information, you call the Army Corps of Engineers and listen to the recording.
+My family and I go fishing regularly at the White River below Bull Shoals Dam. One of the main topics of conversation is "how many generators are running", as that impacts where you can go, what the fishing might be like, whether you can get out and wade. To get that information, you call the Army Corps of Engineers and listen to the recording.
 
 I thought that was so old-fashioned, why can't we do that with a bot...just send a text and get the data back through an api. The thing was there was no simple generation count. The data was all in cubic feet per second (CFS)...and down the rabbit hole I went.
 
