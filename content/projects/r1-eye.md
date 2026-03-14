@@ -1,8 +1,9 @@
-+++
-title = "R1-Eye, vision analysis of coffee bean roasts"
-date = 2026-03-14
-draft = false
-+++
+---
+title: "R1-Eye, vision analysis of coffee bean roasts"
+date: 2026-03-14
+draft: false
+tags: ["coffee-roasting", "computer-vision", "rabbit-r1", "ai-vision", "automation"]
+---
 
 As I described in my previous post [Automated Coffee Roasting Analysis](https://briancarroll.cool/projects/coffee-roasting/), I roast coffee at home on a Hottop KN-8828b-2k+. The Hottop has a viewport on the left side facing away from the control panel. When roasting all my focus is on the laptop, which sits on the right side of the roaster. I can't really see the beans during the roast and can't visually assess the changes, which is a key criteria of the beans' development.
 

@@ -2,6 +2,7 @@
 title: "Rabbit R1 Jailbreak"
 date: 2025-06-22
 draft: false
+tags: ["rabbit-r1", "jailbreak", "hardware", "android", "ai-coding"]
 ---
 
 Like many people I was excited when the Rabbit R1 was announced and quickly bought one. Within minutes I could see it was a fairly useless device as shipped. I put it on the shelf with a vague notion that I would do something with it later. 

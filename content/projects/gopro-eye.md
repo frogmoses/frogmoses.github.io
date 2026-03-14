@@ -1,8 +1,9 @@
-+++
-title = "GoPro-Eye, vision analysis of coffee bean roasts"
-date = 2026-03-14
-draft = false
-+++
+---
+title: "GoPro-Eye, vision analysis of coffee bean roasts"
+date: 2026-03-14
+draft: false
+tags: ["coffee-roasting", "computer-vision", "gopro", "ai-vision", "usb"]
+---
 
 In my [previous post about r1-eye](https://briancarroll.cool/projects/r1-eye/), I described using a jailbroken Rabbit R1 to watch my coffee roasts and send images to Claude Vision for analysis. It worked but there are 2 issues I found when trying to place the camera for the best shot. The first is that there is nothing you can use to mount the r1. I used stacked cardboard boxes which I constantly bumped. The second is the bright orange frame of the r1. The reflection skewed the color of all the images and we had to resort to a cropping mechanism to remove it.
 

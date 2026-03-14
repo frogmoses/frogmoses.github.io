@@ -1,8 +1,9 @@
-+++
-title = "Can I Go Fishing?"
-date = 2026-03-13
-draft = false
-+++
+---
+title: "Can I Go Fishing?"
+date: 2026-03-13
+draft: false
+tags: ["fishing", "data-scraping", "automation", "white-river"]
+---
 
 My family and I go fishing regularly at the White River below Bull Shoals Dam. One of the main topics of conversation is "how many generators are running", as that impacts where you can go, what the fishing might be like, whether you can get out and wade. To get that information, you call the Army Corps of Engineers and listen to the recording.
 

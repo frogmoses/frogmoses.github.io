@@ -1,8 +1,9 @@
-+++
-title = "Automated Coffee Roasting Analysis"
-date = 2026-03-13
-draft = false
-+++
+---
+title: "Automated Coffee Roasting Analysis"
+date: 2026-03-13
+draft: false
+tags: ["coffee-roasting", "data-analysis", "ai-coding", "automation", "artisan"]
+---
 
 I roast coffee at home on a Hottop KN-8828B-2K+. This roaster can connect to [Artisan](https://artisan-scope.org/) for logging and roaster control. When I first bought the roaster I tried using it with Artisan but I fundamentally didn't understand the roasting process. It was too confusing to know what to change. The software felt very overwhelming. I like to learn on my own and I couldn't find any source of information that really helped me understand both the process and the software. I wound up defaulting to the automatic program on the Hottop.
 
