@@ -16,6 +16,7 @@ params:
 
   mainSections:
     - projects
+    - blog
 
 menu:
   main:
