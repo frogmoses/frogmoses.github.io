@@ -23,6 +23,6 @@ One of the interesting challenges I've seen as I've shared this with the old tim
 
 I'm indebted to the Cotter Trout Dock for providing their great analysis of the data, which they post on their site: [Cotter Trout Dock](https://www.cottertroutdock.com/Bull_Shoals_Dam_generation.htm)
 
-[View the live report](https://briancarroll.cool/WhiteRiverData/white_hole_conditions.html)
+[View the live report](https://whiteriver.briancarroll.cool/white_hole_conditions.html)
 
 [View the code on GitHub](https://github.com/frogmoses/WhiteRiverData)
